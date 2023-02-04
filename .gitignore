@@ -1,0 +1,6 @@
+node_modules
+.env
+coverage
+config/database/test.json
+package-lock.json
+auth-api-app-server.pem
